@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4BA15F3B-8928-4CEB-8498-7654B425FF6C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HelicopterShooting</RootNamespace>
+    <AssemblyName>HelicopterShooting</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enemy.cs" />
+    <Compile Include="MainGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainGame.Designer.cs">
+      <DependentUpon>MainGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game.cs" />
+    <Compile Include="Pillar.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sprites.cs" />
+    <EmbeddedResource Include="MainGame.resx">
+      <DependentUpon>MainGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heli1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heli2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heli3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heli4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pillar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien1-1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien1-2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien1-3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien1-4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien2-1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien2-3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien2-4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien2-5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien2-2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien3-1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien3-2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien3-3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien3-4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien3-5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelicopterShooting.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

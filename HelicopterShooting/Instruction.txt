@@ -1,0 +1,3 @@
+﻿Thư mục gồm 2 thư mục con:
++Thư mục HelicopterShootin là source code
++Thư mục Helicopter Shooting là thư mục chứ file cài đặt (setup)

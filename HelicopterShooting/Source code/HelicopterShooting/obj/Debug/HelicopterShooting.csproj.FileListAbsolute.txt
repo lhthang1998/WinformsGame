@@ -1,0 +1,48 @@
+C:\Users\Asus\Desktop\HelicopterShooting\HelicopterShooting\bin\Debug\HelicopterShooting.exe
+C:\Users\Asus\Desktop\HelicopterShooting\HelicopterShooting\bin\Debug\HelicopterShooting.pdb
+C:\Users\Asus\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.Properties.Resources.resources
+C:\Users\Asus\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.exe
+C:\Users\Asus\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.pdb
+C:\Users\Asus\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.MainGame.resources
+C:\Users\Asus\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.FormMain.resources
+C:\Users\Asus\Desktop\CucKiQuanTrong\HelicopterShooting\HelicopterShooting\bin\Debug\HelicopterShooting.exe
+C:\Users\Asus\Desktop\CucKiQuanTrong\HelicopterShooting\HelicopterShooting\bin\Debug\HelicopterShooting.pdb
+C:\Users\Asus\Desktop\CucKiQuanTrong\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\CucKiQuanTrong\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.MainGame.resources
+C:\Users\Asus\Desktop\CucKiQuanTrong\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.FormMain.resources
+C:\Users\Asus\Desktop\CucKiQuanTrong\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.Properties.Resources.resources
+C:\Users\Asus\Desktop\CucKiQuanTrong\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\CucKiQuanTrong\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CucKiQuanTrong\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.exe
+C:\Users\Asus\Desktop\CucKiQuanTrong\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.pdb
+C:\Users\Phuc Pham\Desktop\HelicopterShooting\HelicopterShooting\bin\Debug\HelicopterShooting.exe
+C:\Users\Phuc Pham\Desktop\HelicopterShooting\HelicopterShooting\bin\Debug\HelicopterShooting.pdb
+C:\Users\Phuc Pham\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csprojResolveAssemblyReference.cache
+C:\Users\Phuc Pham\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.MainGame.resources
+C:\Users\Phuc Pham\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.FormMain.resources
+C:\Users\Phuc Pham\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.Properties.Resources.resources
+C:\Users\Phuc Pham\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csproj.GenerateResource.Cache
+C:\Users\Phuc Pham\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csproj.CoreCompileInputs.cache
+C:\Users\Phuc Pham\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.exe
+C:\Users\Phuc Pham\Desktop\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.pdb
+E:\DoAn\SapXongDoAn\HelicopterShooting\HelicopterShooting\bin\Debug\HelicopterShooting.exe
+E:\DoAn\SapXongDoAn\HelicopterShooting\HelicopterShooting\bin\Debug\HelicopterShooting.pdb
+E:\DoAn\SapXongDoAn\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csprojAssemblyReference.cache
+E:\DoAn\SapXongDoAn\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.MainGame.resources
+E:\DoAn\SapXongDoAn\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.FormMain.resources
+E:\DoAn\SapXongDoAn\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.Properties.Resources.resources
+E:\DoAn\SapXongDoAn\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csproj.GenerateResource.cache
+E:\DoAn\SapXongDoAn\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csproj.CoreCompileInputs.cache
+E:\DoAn\SapXongDoAn\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.exe
+E:\DoAn\SapXongDoAn\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.pdb
+C:\Users\Reborn Le\Downloads\HelicopterShooting\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.exe
+C:\Users\Reborn Le\Downloads\HelicopterShooting\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.pdb
+C:\Users\Reborn Le\Downloads\HelicopterShooting\HelicopterShooting\HelicopterShooting\bin\Debug\HelicopterShooting.exe
+C:\Users\Reborn Le\Downloads\HelicopterShooting\HelicopterShooting\HelicopterShooting\bin\Debug\HelicopterShooting.pdb
+C:\Users\Reborn Le\Downloads\HelicopterShooting\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.MainGame.resources
+C:\Users\Reborn Le\Downloads\HelicopterShooting\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.FormMain.resources
+C:\Users\Reborn Le\Downloads\HelicopterShooting\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.Properties.Resources.resources
+C:\Users\Reborn Le\Downloads\HelicopterShooting\HelicopterShooting\HelicopterShooting\obj\Debug\HelicopterShooting.csproj.GenerateResource.Cache
